@@ -547,5 +547,11 @@
       "customer_Id": 104,
       "book_Id": 3
     }
+  ],
+    "Admins": [
+    {
+      "admin_Phone": "9820930822",
+      "admin_password": "123"
+    }
   ]
 }
